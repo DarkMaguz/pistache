@@ -31,6 +31,7 @@ pistache_test_files = [
 	'streaming_test',
 	'string_logger_test',
 	'threadname_test',
+	'segment_tree_node_test',
 	'typeid_test',
 	'view_test',
 ]
